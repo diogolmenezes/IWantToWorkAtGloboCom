@@ -1,19 +1,57 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
+Área de Esporte
 
-__Dicas:__
-* Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+Objetivos
+=========
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável, e provavelmente mais pessoas da Globo.com irão lê-lo.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [IWantToWorkAtGloboCom] (http://github.com/globocom/IWantToWorkAtGloboCom), para ver o cheat-sheet
+Atuar no desenvolvimento de software escaláveis.
+
+Formação Acadêmica
+==================
+
+Ciências da Computação – Universidade Veiga de Almeida /2008
+
+Desenvolvimento de Software
+===========================
+
+RUBY ON RAILS, PYTHON/DJANGO, NODE.JS, C# .NET, ASPNET MVC, ENTITY FRAMEWORK, NHIBERNATE, SQL,
+XHTML, HTML 5, CSS, JAVASCRIPT, JQUERY, AJAX, MICROSOFT FAST SEARCH, TDD, SCRUM.
+
+Experiências Profissionais
+===========================
+
+Metatron
+--------
+
+Período: 06/2008 - Atual
+Cargo: Lider Técnico .Net / Analista Programador Sênior
+Atividades: Liderança técnica no desenvolvimento de aplicações sob demanda para clientes como: Globo, JCB,
+Oi, Rio 2016, Wilson Sons, EBX, Supergasbras;
+
+Responsável pela construção e evolução do framework de desenvolvimento da empresa; dentre outras atividades relacionadas ao cargo ocupado.
+
+Mútua dos Magistrados – Tribunal de Justiça do RJ
+--------------------------------------------------
+
+Período: 02/2008 – 06/2008
+Cargo: Analista Programador Pleno
+Atividades: Desenvolvimento de aplicações em .NET C# e SQL Server; dentre outras atividades inerentes ao cargo ocupado.
+
+
+Projetos pessoais
+=================
+
+* [Tripolist](http://tripolist.com) - Gerenciamento de viagens.
+* [Poetizando](http://poetizando.com.br) - Frases e mensagens motivacionais.
+
+
+Links
+=====
+
+* [Github](http://github.com/diogolmenezes)
