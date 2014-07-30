@@ -47,8 +47,8 @@ Atividades: Desenvolvimento de aplicações em .NET C# e SQL Server; dentre outr
 Projetos pessoais
 =================
 
-* [Tripolist](http://tripolist.com) - Gerenciamento de viagens.
-* [Poetizando](http://poetizando.com.br) - Frases e mensagens motivacionais.
+* [Tripolist](http://tripolist.com) - Gerenciamento de viagens em Ruby on Rails
+* [Poetizando](http://poetizando.com.br) - Frases e mensagens motivacionais em C# .net.
 
 
 Links
